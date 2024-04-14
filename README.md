@@ -1,4 +1,4 @@
-# Tool-Based Agent Developed with Flask
+# Tool-Based Agent Developed with Flask using LangChain and ChromaDB Database
 
 This Flask application is a web application that includes a calculator, vector similarity search, and question answering functionalities using the "gemma-1.1-7b-it" model.
 
