@@ -26,11 +26,16 @@ python app.py
 # For the question answering part
 - Users can ask any question. ("how do .. works", "what is the tallest building in the world" etc.)
 
-![Home Page]
+## App screenshots
 ![image](https://github.com/Eormeci/Tool-Based-Agent-REST-API/assets/121257630/64f9ca99-df51-4e0c-8d95-9f491e667d6b)
 
+![image](https://github.com/Eormeci/Tool-Based-Agent-REST-API/assets/121257630/80e36c7a-c1b7-4885-a6d6-3068eb047908)
 
+![image](https://github.com/Eormeci/Tool-Based-Agent-REST-API/assets/121257630/fc99df62-d161-47aa-8239-fc2eb4b7a3d5)
 
+![image](https://github.com/Eormeci/Tool-Based-Agent-REST-API/assets/121257630/efdb9580-6cbd-41cb-977f-fa1808ca4fb2)
+
+![image](https://github.com/Eormeci/Tool-Based-Agent-REST-API/assets/121257630/81f74e5a-a8be-46c1-ba95-e66eb4360e5c)
 
 
 
