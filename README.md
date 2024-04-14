@@ -25,3 +25,13 @@ python app.py
 - I created a dataset myself using ChatGPT 3.5.
 # For the question answering part
 - Users can ask any question. ("how do .. works", "what is the tallest building in the world" etc.)
+
+![Home Page]
+![image](https://github.com/Eormeci/Tool-Based-Agent-REST-API/assets/121257630/64f9ca99-df51-4e0c-8d95-9f491e667d6b)
+
+
+
+
+
+
+
