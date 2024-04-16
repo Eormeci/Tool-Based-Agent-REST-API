@@ -9,15 +9,15 @@ This Flask application is a web application that includes a calculator, vector s
 
 ## Installation
 # Clone the repo
-git clone https://github.com/Eormeci/Tool-Based-Agent-REST-API.git
-cd Tool-Based-Agent-REST-API
+-git clone https://github.com/Eormeci/Tool-Based-Agent-REST-API.git
+-cd Tool-Based-Agent-REST-API
 # Create and activate a Python virtual environment:
-python -m venv venv
-venv\Scripts\activate
+-python -m venv venv
+-venv\Scripts\activate
 # Install the required dependencies:
-pip install -r requirements.txt
+-pip install -r requirements.txt
 # Run the API
-python app.py
+-python app.py
 
 ## Usage
 # For the vector search part
