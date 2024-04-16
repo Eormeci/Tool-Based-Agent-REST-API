@@ -13,7 +13,7 @@ This Flask application is a web application that includes a calculator, vector s
 -cd Tool-Based-Agent-REST-API
 # Create and activate a Python virtual environment:
 -python -m venv venv
--venv\Scripts\activate
+-venv\Scripts\activate(if that part throws an error , try it again and it will be ok)
 # Install the required dependencies:
 -pip install -r requirements.txt
 # Run the API
